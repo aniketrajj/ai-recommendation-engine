@@ -1,0 +1,2 @@
+#Used a blank __init__.py this file lets python take the folder as a package and files inside this folder as modules
+#We cannot directly import a file from a folder if it is not a package in python, as we are importing and using 02_recommend.py inside 02_metrics.py inside evaluation.
