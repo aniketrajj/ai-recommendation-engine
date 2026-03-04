@@ -16,10 +16,6 @@ First, the user visits our general storefront and enters their unique ID, like U
 - **Scalability:** Built to handle large datasets efficiently, ensuring quick response times.
 - **Versatile Integration:** Easily connects with existing systems via APIs.
 
-## Screenshots
-![Homepage Screenshot](https://example.com/screenshot1.png)
-![Recommendation Page Screenshot](https://example.com/screenshot2.png)
-![User Profile Screenshot](https://example.com/screenshot3.png)
 
 ## Installation
 To install this engine, follow these steps:
